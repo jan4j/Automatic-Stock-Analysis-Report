@@ -1,6 +1,6 @@
 # Stock Analysis Report
 
-This is a demo of an interactive web-based application to compare and analyse stocks made with [Dash](https://plot.ly/products/dash/).
+This is a demo of an interactive web-based application to compare and analyse stocks.
 The application is hosted by [Dash Deployment Server](https://dash.plot.ly/dash-deployment-server/) - Plotly's commercial offering for hosting and sharing Dash Apps on-premise or in the cloud.
 
 ## Getting Started
