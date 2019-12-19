@@ -32,7 +32,7 @@ This is an interactive, multi-page report which displays a number of tables and 
 When you execute the app you will first asked which stocks you want to get analyzed and from which one you also want an investment advice based on the chart analysis.
 Please always input 4 stock tickers and only 1 ticker for the investment advice.
 
-(screenshots/Screenshot1)
+(screenshots/Screenshot1.png)
 
 ## Built With
 
