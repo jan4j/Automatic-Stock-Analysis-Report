@@ -8,8 +8,8 @@ Dash abstracts away all of the technologies and protocols required to build an i
 
 ### Running the app locally
 
-First create a virtual environment with conda or venv inside a temp folder, then activate it.
-Clone the git repo, then install the requirements with pip
+First create a virtual environment and clone the git repo.
+Then install the requirements with pip
 
 ```
 
