@@ -39,7 +39,7 @@ Please always input 4 stock tickers and only 1 ticker for moving average analysi
 - [Dash](https://dash.plot.ly/) - Main server and interactive components
 - [Plotly Python](https://plot.ly/python/) - Used to create the interactive plots
 
-The following is screenshots for the app in this repo:
+The following is a screenshot of the app in this repo:
 
 ![animated](screenshots/financial-report-demo.gif)
 
