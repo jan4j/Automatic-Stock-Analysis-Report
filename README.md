@@ -23,6 +23,8 @@ python3 app.py
 
 ```
 
+If this does not work you can otherwise download the repository and install the modules manually. Having done that you can use Pycharm or Spyder to execute the app.py
+
 ## About the app
 
 This is an interactive, multi-page report which displays a number of tables and interactive plots in a report format. The app automatically loads the data from yahoo finance.
