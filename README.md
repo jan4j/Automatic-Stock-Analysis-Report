@@ -14,6 +14,7 @@ Then install the requirements with pip
 ```
 
 git clone https://github.com/jan4j/Automatic-Stock-Analysis-Report.git
+cd Automatic-Stock-Analysis-Report
 pip3 install -r requirements.txt
 
 ```
