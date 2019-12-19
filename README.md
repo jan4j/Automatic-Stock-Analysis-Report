@@ -29,8 +29,8 @@ python app.py
 ## About the app
 
 This is an interactive, multi-page report which displays a number of tables and interactive plots in a report format. The app automatically loads the data from yahoo finance.
-When you execute the app you will first asked which stocks you want to get analyzed and from which one you also want an investment advice based on the chart analysis.
-Please always input 4 stock tickers and only 1 ticker for the investment advice.
+When you execute the app you will first be asked which stocks you want to have analyzed and from which one you want an investment advice based on chart analysis.
+Please always input 4 stock tickers and only 1 ticker for moving average analysis.
 
 ![Image description](screenshots/Screenshot1.png)
 
