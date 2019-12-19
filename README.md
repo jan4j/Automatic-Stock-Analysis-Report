@@ -1,4 +1,4 @@
-# Financial Report
+# Financial Stock Analysis Report
 
 This is a demo of the [Dash](https://plot.ly/products/dash/) interactive Python framework developed by [Plotly](https://plot.ly/).
 
