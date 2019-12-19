@@ -23,7 +23,7 @@ python3 app.py
 
 ```
 
-If this does not work you can otherwise download the repository and install the modules manually. Having done that you can use Pycharm or Spyder to execute the app.py
+If these steps do not work you can otherwise download the repository and install the modules manually (see **Documentation**).
 
 ## About the app
 
