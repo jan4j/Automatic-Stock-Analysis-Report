@@ -6,9 +6,9 @@ This is an interactive, multi-page report which displays a number of tables and 
 
 Please find the exact description of the report in the file above **Documentation**.
 
-When you execute the app you will first be asked which stocks you want to have analyzed and from which one you want an investment advice based on chart analysis.
+When you execute the app you will be asked which stocks you want to analyse and from which one you want an investment advice based on chart analysis.
 Please always input exactly 4 stock tickers and only 1 ticker for the moving average analysis.
-It may take some time after execution until you get the local host adress with the web report since the data will be loaded from yahoo.
+It may take some time after execution until you get the local host adress with the web report since the data will be loaded scratched yahoo.
 
 
 ![Image description](screenshots/Screenshot1.png)
