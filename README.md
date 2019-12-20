@@ -46,6 +46,7 @@ python3 app.py
 
 ```
 
+Sometimes there is on Mac a SSL Error when you execute the program the first time. To fix this go /Applications/Python 3.6/Install Certificates.command and then click on "install certificates.command".
 If these steps do not work you can otherwise download the repository and install the modules manually (see **Documentation**).
 
 
