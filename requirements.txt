@@ -1,8 +1,5 @@
 dash==1.0.0
 gunicorn==19.9.0
-dash-core-components==1.0.0
-dash-html-components==1.0.0
-dash-renderer==1.0.0
 dash-table==4.0.0
 dash-table-experiments==0.6.0
 Flask==1.1.1
@@ -13,5 +10,3 @@ pandas-datareader==0.8.1
 plotly==4.2.1
 plotly-express==0.4.1
 yahoofinancials==1.5
-yahoo-finance==1.4.0          
-yfinance==0.1.50
