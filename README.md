@@ -1,5 +1,7 @@
 # Financial Stock Analysis Report
 
+## About the app
+
 This is an interactive, multi-page report which displays a number of tables and interactive plots in a report format. The app automatically loads the data from yahoo finance.
 
 Please find the exact description of the report in the file above **Documentation**.
@@ -46,4 +48,4 @@ python3 app.py
 
 If these steps do not work you can otherwise download the repository and install the modules manually (see **Documentation**).
 
-## About the app
+
