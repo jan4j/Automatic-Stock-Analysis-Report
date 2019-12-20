@@ -1,4 +1,3 @@
-#!/usr/bin/python
 #you need the following modules
 import pandas_datareader as web
 import pathlib
