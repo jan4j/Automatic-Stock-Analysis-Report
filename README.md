@@ -4,7 +4,7 @@
 
 This is an interactive, multi-page report which displays a number of tables and interactive plots in a report format. The app automatically loads the data from yahoo finance.
 
-Please find the exact description of the report in the file above **Documentation**.
+Please find the exact description of the report in the file above **Documentation.pdf**.
 
 When you execute the app you will be asked which stocks you want to analyse and from which one you want an investment advice based on chart analysis.
 Please always input exactly 4 stock tickers and only 1 ticker for the moving average analysis.
@@ -47,6 +47,6 @@ python3 app.py
 ```
 
 Sometimes there is on Mac a SSL Error when you execute the program the first time. To fix this go /Applications/Python 3.6/Install Certificates.command and then click on "install certificates.command".
-If these steps do not work you can otherwise download the repository and install the modules manually (see **Documentation**).
+If these steps do not work you can otherwise download the repository and install the modules manually (see **Documentation.pdf**).
 
 
